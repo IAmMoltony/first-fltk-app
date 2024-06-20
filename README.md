@@ -7,7 +7,7 @@ This is my first ever FLTK app and let me tell you FLTK is fricking awesome!!!
 1. It's really really simple
 1. Making GUIs programmatically (no .ui or .fl or any of that other stuff ew) is super easy UNLIKE QT AND GTK AND WXWIDGETS AND OTHER DUMB NORMIE GUI FRAMEWORKS
 1. Cross platform (i use ~~arch~~ debian btw)
-1. Pixel coordinates (gtk more like bruhtk)
+1. Pixel coordinates (tkinter taking notes rn)
 
 ## Why FLTK is still super awesome but some stuff is just weird???
 
